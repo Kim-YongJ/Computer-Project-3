@@ -1,0 +1,4 @@
+﻿  AppView.c
+c:\users\cse\source\repos\[cp3]06_201400875_김용준\[cp3]06_201400875_김용준\appview.c(17): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 'scanf' 선언을 참조하십시오.
+  [CP3]06_201400875_김용준.vcxproj -> C:\Users\cse\source\repos\[CP3]06_201400875_김용준\Debug\[CP3]06_201400875_김용준.exe
