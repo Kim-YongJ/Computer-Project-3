@@ -1,0 +1,3 @@
+﻿  main.c
+c:\users\cse\desktop\새 폴더\새 폴더\main.c(27): warning C4133: '함수': 'QuadEquationProblem *'과(와) 'float *' 사이의 형식이 호환되지 않습니다.
+  [CP3]04_201400875_김용준_2.vcxproj -> C:\Users\cse\source\repos\[CP3]04_201400875_김용준_2\Debug\[CP3]04_201400875_김용준_2.exe
